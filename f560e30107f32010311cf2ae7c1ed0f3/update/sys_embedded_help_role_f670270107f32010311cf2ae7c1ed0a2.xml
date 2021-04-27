@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_564007_loner_req.manager" name="x_564007_loner_req.manager">ba70a30107732010311cf2ae7c1ed0f0</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-27 08:10:55</sys_created_on>
+        <sys_id>f670270107f32010311cf2ae7c1ed0a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ba70a30107732010311cf2ae7c1ed0f0</sys_name>
+        <sys_package display_value="Loner Request" source="x_564007_loner_req">f560e30107f32010311cf2ae7c1ed0f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loner Request">f560e30107f32010311cf2ae7c1ed0f3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f670270107f32010311cf2ae7c1ed0a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-27 08:10:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
